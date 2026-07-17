@@ -1,7 +1,3 @@
-local bottoken = "MTUxNjYxNzIyMDc5OTg2MDc3Nw.GFKPrO.U_pdvr9vqslJfFGHuBjZJRm_WQS8CAEMZ-XIdk"
-local chanelid = "1527670117700210730"
-local logid = "1527670355332825264"
-local tradesbeforenext = 1
 --claude sigmer
 joinGames = {[142823291] = true,[920587237] = true,}
 
